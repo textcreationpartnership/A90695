@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the Tovver, February 20. 1641. Being upon the Sabboth [sic] day. By the Bishop of Bath and VVells.</title>
+            <author>Piers, William, 1580-1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90695</idno>
+            <idno type="STC">Wing P2210</idno>
+            <idno type="STC">Thomason E137_1</idno>
+            <idno type="STC">ESTC R150</idno>
+            <idno type="EEBO-CITATION">99859782</idno>
+            <idno type="PROQUEST">99859782</idno>
+            <idno type="VID">111879</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90695)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111879)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E137[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the Tovver, February 20. 1641. Being upon the Sabboth [sic] day. By the Bishop of Bath and VVells.</title>
+                  <author>Piers, William, 1580-1670.</author>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. S.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Corinthians, 2nd, XII, 8 --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111879:1"/>
+            <pb facs="tcp:111879:1" rendition="simple:additions"/>
+            <p>A SERMON PREACHED AT THE TOVVER, February 20. 1641.</p>
+            <p>Being upon the Sabboth Day.</p>
+            <p>By the Biſhop of Bath and VVells.</p>
+            <p>London Printed for H.S. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:111879:2"/>
+            <pb n="1" facs="tcp:111879:2"/>
+            <head>A SERMON PREACHED AT THE TOVVER.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>2 Cor. 12.8.</hi>
+                  </bibl>
+                  <p>For this thing I beſought the Lord thrice, that it might depart from me, and he ſaid unto me, my grace is ſufficient for thee, for my ſtrength is made perfect in weakneſſe.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>His Verſe it hath dependancy with the Verſe before, through the abundance of Revelations he was exalted above mea<g ref="char:EOLhyphen"/>ſure, there was given a thorne in the fleſh, the meſſenger of Satan to buffet him, and for this thing he prayed the Lord thrice that it might depart from him: the occaſion
+<pb n="2" facs="tcp:111879:3"/>of this prayer was the Thorne in the fleſh, and the occaſion of that Thorne, was the meſſenger of Sa<g ref="char:EOLhyphen"/>tan: No Apoſtle more greater then he, and none more greatly afflicted, none more gracious, and the danger of that was ſpirituall pride, the greateſt ſin that the Church of God can fall into: the greater grace, the greater humility ought we to have, and the more humbly to walke with God.</p>
+            <p>The parts are two:
+<list>
+                  <item>Firſt, <hi>Pauls</hi> petition to God.</item>
+                  <item>Secondly, Gods anſwer to <hi>Paul.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The petition conſiſts of five branches.</p>
+            <list>
+               <item>Firſt, the cauſes of his complaint, no ſmall mat<g ref="char:EOLhyphen"/>ter, but ſome great thing, <hi>For this thing.</hi>
+               </item>
+               <item>Secondly, the remedy that he uſeth, and that was Prayer.</item>
+               <item>Thirdly, the earneſtneſſe of his Prayer, not once, or twice, but he did continue his Prayer, <hi>For this thing I prayed three times.</hi>
+               </item>
+               <item>Fourthly, the Phyſitian to whom he ſought, to the Lord.</item>
+               <item>Fifthly, the end of his Petition, the thing that he did deſire, that he might be eaſed, <hi>In that it might depart from me.</hi>
+               </item>
+            </list>
+            <p>Secondly, yee have Gods anſwer, and therein ob<g ref="char:EOLhyphen"/>ſerve two particulars.</p>
+            <p>Firſt, the effect of his anſwer, it was a deniall: the Apoſtle prayes that this thing that did ſo trouble him might depart from him, but it would not be.</p>
+            <p>Secondly, Gods divine aide, God gave him a better thing that he did not pray for, to comfort him againſt the things that he did pray for, <hi>And he ſaid unto me, my grace is ſufficient for thee:</hi> Where obſerve
+<pb n="3" facs="tcp:111879:3"/>the nature of this divine aide, <hi>My grace.</hi>
+            </p>
+            <p>Secondly, the quantity, <hi>It is ſufficient for thee.</hi>
+            </p>
+            <p>The third thing is, the reaſon of Gods deniall, and his divine aide expreſſed in a famous ſentence, or maxime of divinity, and this is granted from Gods goodneſſe and mercy, both for his owne glory, and mans good, <hi>For my ſtrength is made perfect in weak<g ref="char:EOLhyphen"/>neſſe:</hi> Theſe are all the branches of the Text, of which in order, as time and your patience will give leave, and firſt of <hi>Pauls</hi> complaint, <hi>For this thing I beſought the Lord:</hi> What this thing was in generall, that <hi>Paul</hi> tels you in the verſe before, and hee de<g ref="char:EOLhyphen"/>ſcribes it in two wayes: Firſt, in a figurative ſpeech, in reſpect of the great anguiſh it wrought, and he calls it a Thorne in the fleſh<g ref="char:punc">▪</g> the word in the Origi<g ref="char:EOLhyphen"/>nall ſignifies a ſharp ſtick, or the point of a Speare, which being faſtened into a mans body, puts him to intollerable paine. Secondly, he calls it the angle of Satan: but now two things is here, one that it is Satans vexation, and the other that it did afflict him to the very heart, ſo that you ſee it was no Thiſtle, no Bryar, no ſmall thing that did trouble him here, and becauſe the Engliſh Tranſlation calls it by the name of a Thorne, and becauſe we have not a bet<g ref="char:EOLhyphen"/>ter word in Engliſh to expreſſe it, I will call it ſo, but what thing was that, that is the doubt: here I confeſſe I am fallen among Thornes: Some divines are of opinion that this Thorne was originall concu<g ref="char:EOLhyphen"/>piſcence, which <hi>Paul</hi> calls the Law in the fleſh: but this is too far fetched, for originall concupiſcence is common to all the regenerate: but he here com<g ref="char:EOLhyphen"/>plaines of ſome evill that happened only to himſelf: Secondly, he knew that that could not depart from
+<pb n="4" facs="tcp:111879:4"/>him ſo long as he did live here, but he prayes that this might depart from him, but other Divines take this to be ſome bodily diſeaſe, as a continuall paine in the ſtomack, as the Gout, or the Stone, or ſome malady in the body, but this is very unlikely, be<g ref="char:EOLhyphen"/>cauſe <hi>Paul</hi> doth no where in any of his Epiſtles complaine of any bodily infirmity he had. Second<g ref="char:EOLhyphen"/>ly, this had been an impediment for his planting the Goſpell in all Countries, which he could not have done if he had had any bodily infirmity: Some underſtand it the adverſaries he had, as <hi>Hymineus,</hi> and others, eſpecially <hi>Alexander</hi> the Copperſmith, it is true indeed that this was one of Satans meſſen<g ref="char:EOLhyphen"/>gers, but this was but a Thorne without the fleſh: but <hi>Paul</hi> complaines of a Thorne in the fleſh, ſome affliction that did ſtick cloſe to him: others are of opinion that this was ſome evill Angell of Satan that God did permit to vexe the body of <hi>Paul,</hi> as he did to vexe <hi>Iob,</hi> and to buffet with <hi>Paul</hi> as one man would with another, and beſtowed many a blow upon him: others are of opinion that it was ſome luſtfull motions ſtirred up in the Apoſtle, and for this cauſe he did keep his body under, for ſay they, if it had been any thing elſe he would have told us plainly what it had been, but being a thing that hee was aſhamed of, he tels us it was a Thorne.</p>
+            <p>But <hi>Paul</hi> he had the gift of Chaſtity, <hi>I would all were as I am,</hi> ſaith he: 2. If <hi>Paul</hi> had been troubled with that, there was an eaſie remedy which hee gave to others, what ſhall we ſay then? certainly in the judgement of moſt Divines it was ſome ter<g ref="char:EOLhyphen"/>ror of Satan, ſome internall and ſpirituall affliction
+<pb n="5" facs="tcp:111879:4"/>in his ſoule, and when he ſaith it was in his fleſh, he meanes by his fleſh, the outward man, the unrege<g ref="char:EOLhyphen"/>nerate part, the unregenerate part of the ſoule, as <hi>Rom.</hi> 7. although an inward temptation, or afflicti<g ref="char:EOLhyphen"/>on in conſcience may be truly ſaid to be in the fleſh by way of participation, becauſe the fleſh by ſuch a cauſe becomes weak and pale: the beſt is this, that the Lord did permit Satan to bring to the eare and minde of <hi>Paul</hi> all his perſecutions and wickedneſſe, God hereby intending to humble him, though Satans policy hereby was to have ſhaken him: but this Thorne is hid ſo deep in the fleſh, that I will ſearch no farther after it, but content my ſelfe with that of <hi>Auſtin,</hi> That he doth profeſſe he did not know what this Thorne here was: Yee ſee then an Apoſtle, and ſuch an Apoſtle as <hi>Paul,</hi> and after ſo many fa<g ref="char:EOLhyphen"/>vours he muſt have a Thorn in the fleſh, the Church of God in generall, and every childe of God in the Church is ſaid to be a Lilly among Thornes, <hi>Cant.</hi> 2.2. He is not worthy to be a member of the my<g ref="char:EOLhyphen"/>ſteriall body, upon the glorious head whereof was platted a Crowne of many Thornes, who cannot indure the pricking of one Thorne, ſome light af<g ref="char:EOLhyphen"/>fliction, if not for his owne ſake, yet for our Savi<g ref="char:EOLhyphen"/>ours ſake: hath our Saviour drunke ſo deep of the cup, and ſhall not we be willing to ſip after him in the ſame cup? If God did not ſpare his only Son for us that knew not any ſin, ſhall we that are his adopted<g ref="char:punc">▪</g> Sons think to eſcape without any ſcourge<g ref="char:EOLhyphen"/>ing at all<g ref="char:punc">▪</g> He whom the Lord hath not chaſtiſed, is a baſtard, and no ſon <hi>Heb.</hi> 12. Give me a man that never was: afflicted with any affliction, ſaith
+<pb n="6" facs="tcp:111879:5"/>
+               <hi>Auſtin,</hi> and I will preſently conclude, that that man is not the childe of God, for every childe of God muſt have ſome afflictions to humble him, and call him home to God, wherein he muſt rejoyce: Wee muſt not thinke to paſſe from the joy of this world, to the joy of the next: no, when the Iſraelites went out of Aegypt, they did not goe through pleaſant Gardens, but the Wilderneſſe, to Canaan: this was a type that we muſt paſſe through afflictions to that Heavenly Canaan: and therefore one that was without afflictions, ſaid to God, What Lord, am I out of thy favour? am I not worthy to be afflicted? What a Catalogue doth S. <hi>Paul</hi> reckon of his affli<g ref="char:EOLhyphen"/>ctions in the eleventh of this Epiſtle, <hi>ver.</hi> 23. <hi>In la<g ref="char:EOLhyphen"/>bours more abundant, in ſtripes above meaſure, in pri<g ref="char:EOLhyphen"/>ſon more plentious, in death oft, of the Iews five times received I forty ſtripes ſave one, I was thrice beaten with rods, I was once ſtoned, I ſuffered thrice ſhipwrack, night and day I have been in the deepe Sea, in journying I was often, in perils of water, in perils of robbers, in perils of my owne Nation, in perils among the Gentiles, in perils in the City, in perils in the wil<g ref="char:EOLhyphen"/>derneſſe, in perils in the Sea, in perils among falſe brethren, in wearineſſe and painfulneſſe, in watching often, in hunger and thriſt, in faſting often:</hi> I am al<g ref="char:EOLhyphen"/>moſt out of breath in rehearſing of them, and yet this worthy Apoſtle was never out of breath in ſuf<g ref="char:EOLhyphen"/>fering them, all the afflictions of the people of God are but pricks and thornes, they are but loving cor<g ref="char:EOLhyphen"/>rections of a mercifull Father, we are troubled on every ſide, but not diſtreſſed, afflicted, but not for<g ref="char:EOLhyphen"/>ſaken, caſt out, but not deſtroyed: Oh welcome,
+<pb n="7" facs="tcp:111879:5"/>thrice welcome theſe bitter ſweets, theſe loving cha<g ref="char:EOLhyphen"/>ſtiſements, theſe indulgent viſitations, theſe plea<g ref="char:EOLhyphen"/>ſant croſſes, theſe comfortable calamities, theſe wholeſome miſeries, theſe glorious tryals, theſe joy<g ref="char:EOLhyphen"/>full temptations, theſe honourable reproaches: all light afflictions, which work for us a far exceeding waight of glory, by theſe we are humbled, and ſeek right early to our God, by theſe our faith and love is kindled, and Gods graces exerciſed, by theſe we are put in remembrance and ſorrow for our ſins, by theſe we are made more carefull of future walking with God, by theſe we are made fit for the life to come, by theſe our deſire is kindled to be with Chriſt, nay by theſe we are incouraged to imbrace death. I know out of very faithfulneſſe thou haſt cauſed me to be afflicted, <hi>Pſal.</hi> 119. I have been the longer upon the firſt branch, becauſe it is the hinge upon which the whole frame of my Text doth turne.</p>
+            <p>But what did <hi>Paul</hi> when the Thorne that was in the fleſh did trouble him, this meſſenger began to buffet him: he went preſently to prayer, the only way to draw out any Thorne whatſoever, <hi>For this thing I prayed:</hi> Is any man afflicted? let him pray: Prayer was <hi>Iobs</hi> remedy, and it was <hi>Davids</hi> practiſe, <hi>In my diſtreſſe I called upon thee:</hi> And God himſelfe ſaith, <hi>Hoſea</hi> 5. <hi>In their afflictions they will ſeeke mee early:</hi> We make prayer our laſt refuge in afflictions, but it ought to be firſt, for God is a very preſent help in trouble: but will not God heare us except we pray? Firſt, becauſe prayer is a matter of wor<g ref="char:EOLhyphen"/>ſhip and ſervice of God: the great men of the world
+<pb n="8" facs="tcp:111879:6"/>will not beſtow favours without they be petitioned, and ſhall the great God without our prayers? Se<g ref="char:EOLhyphen"/>condly, becauſe our prayers ſhewes our confidence in God: a Father can beſtow mercies upon his Son without asking, but he will not, becauſe he takes delight to heare him ſue to him.</p>
+            <p>
+               <hi>Object.</hi> But Gods will is immutable, how can we alter it, what need we pray?</p>
+            <p>
+               <hi>Anſw.</hi> It is a ſure rule, things that are not contrary, work together, Prayer is as it were the midwife to deliver Gods decree, Chriſt knew before hee did pray, that thoſe things that he did pray for ſhould be granted, yet he prayes for it: but as our prayers muſt be fervent, ſo they muſt be frequent, <hi>For this thing I prayed thrice,</hi> a medicine muſt be often ap<g ref="char:EOLhyphen"/>plyed, or it will not work the cure, he prayed thrice, here is a certain number for an uncertain, as thrice happy, that is very happy, ſo I prayed thrice, that is often, <hi>Ye ask and receive not, becauſe ye ask amiſſe:</hi> Goe then, and pray againe, and then often praying thou ſhalt finde out the error of thy prayer: if God deny thee at the firſt, and ſecond, give not over, peradventure Heaven gate is therefore ſhut, that thou maiſt bounce the longer, and lowder, and there<g ref="char:EOLhyphen"/>fore give not over knocking, untill that God bee opening: great bleſſings are obtained with earneſt<g ref="char:EOLhyphen"/>neſſe: The unrighteous judge did yeeld at laſt to the importunate prayer of the widdow: And ſhall not the Judge of all the world yeeld to the importunate prayer of his ſervants: <hi>The kingdome of heaven ſuf<g ref="char:EOLhyphen"/>fers violence, and the violent take it by force:</hi> What force? Of prayer. Unto whom? Unto the Lord.
+<pb n="9" facs="tcp:111879:6"/>That is the fourth branch, <hi>For this thing I prayed thrice unto the Lord,</hi> Wee have neither precept nor practiſe in all the Canonicall Scripture to pray unto any other, but only unto the Lord in heaven, or in earth: <hi>Whom have I in heaven but thee, Pſal.</hi> 37. But the Papiſts, they are not of <hi>Davids</hi> Religion, for they have Saints, S. <hi>Benedict,</hi> S. <hi>Francis,</hi> and a thouſand more: He muſt be a <hi>Bookers</hi> Arithmati<g ref="char:EOLhyphen"/>tion that can reckon up all the names of the ſeverall Saints that they call upon in their danger: That Courtlike argument of the Papiſts, that we cannot goe to the King with a Petition without Maſter of Requeſts, doth not deſerve a Scholler-like anſwer, for God is every where preſent, and he need no other Ma: of Requeſt but Jeſus Chriſt. Then come to the laſt, that is, the end of his Petition, <hi>Depart from me:</hi> Afflictions in themſelves are not pleaſing, but con<g ref="char:EOLhyphen"/>trary to our nature, and therefore not to be deſired: but when God ſends them wee are to beare them with comfort, wee take them willingly, but wee would not have them ſtay with us, but when they have done their work, we would have them goe, but if this meſſenger of Satan doe not ſtraight waies depart from us, they ſhall not make us depart from God.</p>
+            <p>
+               <hi>He did elect us before the world was made, Ephe.</hi> 1. And here by the way the Romiſh Schoolmen doth not handle this grace at large, becauſe it makes a<g ref="char:EOLhyphen"/>gainſt their proud doctrine of Juſtification by good workes: Some underſtand this grace, which if a man have, he is ſafe from the hurt of any affliction, it is true, this grace of God is firſt meant, but it is
+<pb n="10" facs="tcp:111879:7"/>not the onely grace: ſecondly, there is the grace of God within us, all the gifts of Gods Spirit, which is rightly and truly called Grace of God, the love and favour of God towards us: now of this of grace God doth the Apoſtle ſpeak here in my Text: <hi>We are kept by the power of God to Salvation,</hi> by the power of God, what is that? the power of Grace. And againſt what? Againſt all afflictions whatſoever, This Grace is S. <hi>Pauls</hi> token. 2 <hi>Theſ.</hi> 3. This is the moſt precious jewell of a Chriſtian, and as the ſoule is the life of the body, this is the life of the ſoule, this ſtirs up to good, and reſtraines from evill, this keeps from pride in proſperity, and ſupports in affliction, this makes all our weak indeavours acceptable with God, and without this all our beſt actions is but ſin: it is not the grace of the body, that is but vani<g ref="char:EOLhyphen"/>ty, it is not the grace of the world, the grace of the world is not able to keep a man from one poore lit<g ref="char:EOLhyphen"/>tle fit of an Ague, and when a man lies upon his death-bed, and Satan begins to tempt, and his con<g ref="char:EOLhyphen"/>ſcience begins to trouble, then what good will all the grace of the world doe a man: but by this grace of God we are equall to the Angels, but without this grace we are worſe then Toades, of Serpents: Nay, worſe then the very devils of hell, and there<g ref="char:EOLhyphen"/>fore let us pray for this grace of God, that no man, nor creatures, nor devils can take away, but it con<g ref="char:EOLhyphen"/>tinues for ever: whom God loveth, he loveth to the end.</p>
+            <p>The ſecond divine Aide God gave the Apoſtle, was the quantity of this grace, <hi>My grace is ſufficient for thee:</hi> ſufficient, it walks between two extreames;
+<pb n="11" facs="tcp:111879:7"/>abundance and want, and where there is ſufficient, there is neither too much, nor too little: and here we may admire the wiſdome of God, he is a free agent, the Sun ſhines according to his naturall ability, but God giveth every one grace according to the mea<g ref="char:EOLhyphen"/>ſure of Chriſt, what is that? according to the plea<g ref="char:EOLhyphen"/>ſure of his own will: For God is an ever-flowing fountaine, an Ocean of grace, there is grace enough for you, and me, and for as many worlds as God can make: Wherefore let us not murmure againſt God, becauſe we have not that abundance of grace that the Apoſtles and others have had, they had the ſhowers of grace, we will be content with the dew of grace, they had the full ſheaves, but we will bee glad of the gleanings, they had their full banquets, but we ſhall think our ſelves happy if we can have but the crums, and if we have grace, we ſhall have glory: for it is with grace, as with Manna, he that gathered much had not over: and he that gathered little had no lack, and ſo every grace is ſufficient as it is effectuall, and this doth ariſe from the power of God, and not from mans free will: He doth not ſay my grace is ſufficient with thee, but <hi>My grace is ſufficient for thee,</hi> and therefore we muſt take heed we doe not part ſtakes between Gods grace, and mans free will, for it is he alone that gives us both to will and to doe according to his good pleaſure, <hi>Epheſ.</hi> 2. And therefore let us not be covetous, give me this ſufficiency from grace, for if we have grace enough, vve have enough: Give me the man that can truly ſay he hath enough: he ſaith vvhen hee hath a houſe, Oh that I had a little land, and ſo as
+<pb n="12" facs="tcp:111879:8"/>the world growes upon him, his deſires grow up<g ref="char:EOLhyphen"/>on the world, ſo that every yeare, nay, every day, every houre he thinkes of another enough: but if a man have grace enough, hee hath all enough, this makes a penny ſeeme to be as begge as a ſhilling, a priſon as a country, and this grace is ſufficient a<g ref="char:EOLhyphen"/>gainſt all the aſſaults of the world, the fleſh, and the devill, and againſt all afflictions: and although God could keepe us from afflictions, yet he will not, for if there were no conflict, there will be no victory, but in the end grace hath alwayes the upper hand, and in all theſe things we are more than conque<g ref="char:EOLhyphen"/>rers: be not then diſmaid O Chriſtian ſoule, who<g ref="char:EOLhyphen"/>ever thou art under ſome heavy affliction: what wouldſt thou be better than <hi>Paul?</hi> behold, the A<g ref="char:EOLhyphen"/>poſtle ſuffered and deſpaired not, nay behold, Chriſt himſelfe was tempted, and afflicted that hee might ſuccour us when we are tempted and afflicted: Oh then behold Chriſt with a ſure comfort and a lively faith, and he will ſuccour us in all our affli<g ref="char:EOLhyphen"/>ons, that neither fleſh, world, nor devill ſhall be a<g ref="char:EOLhyphen"/>ble to ſeparate us from the love of God in Chriſt Jeſus our Lord.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:111879:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
